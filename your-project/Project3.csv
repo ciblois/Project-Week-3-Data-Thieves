@@ -1,0 +1,761 @@
+,Day,HomeTeamName,AwayTeamName,Winner,Prediction,Winner was Predicted?,Right Prediction?
+0,2018-08-10,Manchester United FC,Leicester City FC,Tie,Manchester United FC,False,False
+1,2018-08-11,Newcastle United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+2,2018-08-11,Fulham FC,Crystal Palace FC,Crystal Palace FC,Fulham FC,False,False
+3,2018-08-11,Huddersfield Town AFC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+4,2018-08-11,Watford FC,Brighton & Hove Albion FC,Watford FC,Watford FC,True,True
+5,2018-08-11,AFC Bournemouth,Cardiff City FC,AFC Bournemouth,AFC Bournemouth,True,True
+6,2018-08-11,Wolverhampton Wanderers FC,Everton FC,Tie,Wolverhampton Wanderers FC,False,False
+7,2018-08-12,Liverpool FC,West Ham United FC,Liverpool FC,Liverpool FC,True,True
+8,2018-08-12,Southampton FC,Burnley FC,Tie,Southampton FC,False,False
+9,2018-08-12,Arsenal FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+10,2018-08-18,Cardiff City FC,Newcastle United FC,Tie,Newcastle United FC,False,False
+11,2018-08-18,Tottenham Hotspur FC,Fulham FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+12,2018-08-18,Everton FC,Southampton FC,Everton FC,Everton FC,True,True
+13,2018-08-18,Leicester City FC,Wolverhampton Wanderers FC,Leicester City FC,Leicester City FC,True,True
+14,2018-08-18,West Ham United FC,AFC Bournemouth,AFC Bournemouth,West Ham United FC,False,False
+15,2018-08-18,Chelsea FC,Arsenal FC,Chelsea FC,Chelsea FC,True,True
+16,2018-08-19,Manchester City FC,Huddersfield Town AFC,Manchester City FC,Manchester City FC,True,True
+17,2018-08-19,Burnley FC,Watford FC,Watford FC,Burnley FC,False,False
+18,2018-08-19,Brighton & Hove Albion FC,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,False,False
+19,2018-08-20,Crystal Palace FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+20,2018-08-25,Wolverhampton Wanderers FC,Manchester City FC,Tie,Manchester City FC,False,False
+21,2018-08-25,Arsenal FC,West Ham United FC,Arsenal FC,Arsenal FC,True,True
+22,2018-08-25,Huddersfield Town AFC,Cardiff City FC,Tie,Huddersfield Town AFC,False,False
+23,2018-08-25,Southampton FC,Leicester City FC,Leicester City FC,Southampton FC,False,False
+24,2018-08-25,AFC Bournemouth,Everton FC,Tie,AFC Bournemouth,False,False
+25,2018-08-25,Liverpool FC,Brighton & Hove Albion FC,Liverpool FC,Liverpool FC,True,True
+26,2018-08-26,Watford FC,Crystal Palace FC,Watford FC,Watford FC,True,True
+27,2018-08-26,Fulham FC,Burnley FC,Fulham FC,Fulham FC,True,True
+28,2018-08-26,Newcastle United FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+29,2018-08-27,Manchester United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Manchester United FC,False,False
+30,2018-09-01,Leicester City FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+31,2018-09-01,Chelsea FC,AFC Bournemouth,Chelsea FC,Chelsea FC,True,True
+32,2018-09-01,Everton FC,Huddersfield Town AFC,Tie,Everton FC,False,False
+33,2018-09-01,West Ham United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,West Ham United FC,False,False
+34,2018-09-01,Crystal Palace FC,Southampton FC,Southampton FC,Crystal Palace FC,False,False
+35,2018-09-01,Brighton & Hove Albion FC,Fulham FC,Tie,Brighton & Hove Albion FC,False,False
+36,2018-09-01,Manchester City FC,Newcastle United FC,Manchester City FC,Manchester City FC,True,True
+37,2018-09-02,Cardiff City FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+38,2018-09-02,Burnley FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+39,2018-09-02,Watford FC,Tottenham Hotspur FC,Watford FC,Tottenham Hotspur FC,False,False
+40,2018-09-15,Tottenham Hotspur FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+41,2018-09-15,Manchester City FC,Fulham FC,Manchester City FC,Manchester City FC,True,True
+42,2018-09-15,Newcastle United FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+43,2018-09-15,Chelsea FC,Cardiff City FC,Chelsea FC,Chelsea FC,True,True
+44,2018-09-15,Huddersfield Town AFC,Crystal Palace FC,Crystal Palace FC,Crystal Palace FC,True,True
+45,2018-09-15,AFC Bournemouth,Leicester City FC,AFC Bournemouth,AFC Bournemouth,True,True
+46,2018-09-15,Watford FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+47,2018-09-16,Wolverhampton Wanderers FC,Burnley FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+48,2018-09-16,Everton FC,West Ham United FC,West Ham United FC,Everton FC,False,False
+49,2018-09-17,Southampton FC,Brighton & Hove Albion FC,Tie,Southampton FC,False,False
+50,2018-09-22,Fulham FC,Watford FC,Tie,Watford FC,False,False
+51,2018-09-22,Liverpool FC,Southampton FC,Liverpool FC,Liverpool FC,True,True
+52,2018-09-22,Manchester United FC,Wolverhampton Wanderers FC,Tie,Manchester United FC,False,False
+53,2018-09-22,Leicester City FC,Huddersfield Town AFC,Leicester City FC,Leicester City FC,True,True
+54,2018-09-22,Burnley FC,AFC Bournemouth,Burnley FC,AFC Bournemouth,False,False
+55,2018-09-22,Cardiff City FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+56,2018-09-22,Crystal Palace FC,Newcastle United FC,Tie,Crystal Palace FC,False,False
+57,2018-09-22,Brighton & Hove Albion FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+58,2018-09-23,West Ham United FC,Chelsea FC,Tie,Chelsea FC,False,False
+59,2018-09-23,Arsenal FC,Everton FC,Arsenal FC,Arsenal FC,True,True
+60,2018-09-29,West Ham United FC,Manchester United FC,West Ham United FC,Manchester United FC,False,False
+61,2018-09-29,Wolverhampton Wanderers FC,Southampton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+62,2018-09-29,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Manchester City FC,True,True
+63,2018-09-29,Newcastle United FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+64,2018-09-29,Arsenal FC,Watford FC,Arsenal FC,Arsenal FC,True,True
+65,2018-09-29,Everton FC,Fulham FC,Everton FC,Everton FC,True,True
+66,2018-09-29,Huddersfield Town AFC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+67,2018-09-29,Chelsea FC,Liverpool FC,Tie,Liverpool FC,False,False
+68,2018-09-30,Cardiff City FC,Burnley FC,Burnley FC,Cardiff City FC,False,False
+69,2018-10-01,AFC Bournemouth,Crystal Palace FC,AFC Bournemouth,AFC Bournemouth,True,True
+70,2018-10-05,Brighton & Hove Albion FC,West Ham United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,True,True
+71,2018-10-06,Tottenham Hotspur FC,Cardiff City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+72,2018-10-06,Leicester City FC,Everton FC,Everton FC,Leicester City FC,False,False
+73,2018-10-06,Burnley FC,Huddersfield Town AFC,Tie,Burnley FC,False,False
+74,2018-10-06,Crystal Palace FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Crystal Palace FC,False,False
+75,2018-10-06,Watford FC,AFC Bournemouth,AFC Bournemouth,Watford FC,False,False
+76,2018-10-06,Manchester United FC,Newcastle United FC,Manchester United FC,Manchester United FC,True,True
+77,2018-10-07,Fulham FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+78,2018-10-07,Southampton FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+79,2018-10-07,Liverpool FC,Manchester City FC,Tie,Manchester City FC,False,False
+80,2018-10-20,Chelsea FC,Manchester United FC,Tie,Chelsea FC,False,False
+81,2018-10-20,Wolverhampton Wanderers FC,Watford FC,Watford FC,Wolverhampton Wanderers FC,False,False
+82,2018-10-20,Manchester City FC,Burnley FC,Manchester City FC,Manchester City FC,True,True
+83,2018-10-20,Newcastle United FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Newcastle United FC,False,False
+84,2018-10-20,Cardiff City FC,Fulham FC,Cardiff City FC,Cardiff City FC,True,True
+85,2018-10-20,West Ham United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+86,2018-10-20,AFC Bournemouth,Southampton FC,Tie,AFC Bournemouth,False,False
+87,2018-10-20,Huddersfield Town AFC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+88,2018-10-21,Everton FC,Crystal Palace FC,Everton FC,Everton FC,True,True
+89,2018-10-22,Arsenal FC,Leicester City FC,Arsenal FC,Arsenal FC,True,True
+90,2018-10-27,Fulham FC,AFC Bournemouth,AFC Bournemouth,AFC Bournemouth,True,True
+91,2018-10-27,Liverpool FC,Cardiff City FC,Liverpool FC,Liverpool FC,True,True
+92,2018-10-27,Southampton FC,Newcastle United FC,Tie,Southampton FC,False,False
+93,2018-10-27,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,False,False
+94,2018-10-27,Watford FC,Huddersfield Town AFC,Watford FC,Watford FC,True,True
+95,2018-10-27,Leicester City FC,West Ham United FC,Tie,Leicester City FC,False,False
+96,2018-10-28,Burnley FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+97,2018-10-28,Crystal Palace FC,Arsenal FC,Tie,Arsenal FC,False,False
+98,2018-10-28,Manchester United FC,Everton FC,Tie,Manchester United FC,False,False
+99,2018-10-29,Tottenham Hotspur FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+100,2018-11-03,AFC Bournemouth,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+101,2018-11-03,Newcastle United FC,Watford FC,Newcastle United FC,Watford FC,False,False
+102,2018-11-03,Everton FC,Brighton & Hove Albion FC,Everton FC,Everton FC,True,True
+103,2018-11-03,Cardiff City FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+104,2018-11-03,West Ham United FC,Burnley FC,West Ham United FC,West Ham United FC,True,True
+105,2018-11-03,Arsenal FC,Liverpool FC,Tie,Liverpool FC,False,False
+106,2018-11-03,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+107,2018-11-04,Manchester City FC,Southampton FC,Manchester City FC,Manchester City FC,True,True
+108,2018-11-04,Chelsea FC,Crystal Palace FC,Chelsea FC,Chelsea FC,True,True
+109,2018-11-05,Huddersfield Town AFC,Fulham FC,Tie,Huddersfield Town AFC,False,False
+110,2018-11-10,Cardiff City FC,Brighton & Hove Albion FC,Tie,Cardiff City FC,False,False
+111,2018-11-10,Newcastle United FC,AFC Bournemouth,Tie,AFC Bournemouth,False,False
+112,2018-11-10,Leicester City FC,Burnley FC,Tie,Leicester City FC,False,False
+113,2018-11-10,Huddersfield Town AFC,West Ham United FC,Tie,West Ham United FC,False,False
+114,2018-11-10,Southampton FC,Watford FC,Tie,Southampton FC,False,False
+115,2018-11-10,Crystal Palace FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+116,2018-11-11,Liverpool FC,Fulham FC,Liverpool FC,Liverpool FC,True,True
+117,2018-11-11,Chelsea FC,Everton FC,Tie,Chelsea FC,False,False
+118,2018-11-11,Manchester City FC,Manchester United FC,Manchester City FC,Manchester City FC,True,True
+119,2018-11-11,Arsenal FC,Wolverhampton Wanderers FC,Tie,Arsenal FC,False,False
+120,2018-11-24,Fulham FC,Southampton FC,Tie,Southampton FC,False,False
+121,2018-11-24,Everton FC,Cardiff City FC,Tie,Everton FC,False,False
+122,2018-11-24,Manchester United FC,Crystal Palace FC,Tie,Manchester United FC,False,False
+123,2018-11-24,West Ham United FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+124,2018-11-24,Brighton & Hove Albion FC,Leicester City FC,Tie,Leicester City FC,False,False
+125,2018-11-24,Watford FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+126,2018-11-24,Tottenham Hotspur FC,Chelsea FC,Tottenham Hotspur FC,Chelsea FC,False,False
+127,2018-11-25,AFC Bournemouth,Arsenal FC,Tie,Arsenal FC,False,False
+128,2018-11-25,Wolverhampton Wanderers FC,Huddersfield Town AFC,Tie,Wolverhampton Wanderers FC,False,False
+129,2018-11-26,Burnley FC,Newcastle United FC,Newcastle United FC,Newcastle United FC,True,True
+130,2018-11-30,Cardiff City FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+131,2018-12-01,Manchester City FC,AFC Bournemouth,Manchester City FC,Manchester City FC,True,True
+132,2018-12-01,Newcastle United FC,West Ham United FC,West Ham United FC,Newcastle United FC,False,False
+133,2018-12-01,Leicester City FC,Watford FC,Leicester City FC,Leicester City FC,True,True
+134,2018-12-01,Huddersfield Town AFC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Huddersfield Town AFC,False,False
+135,2018-12-01,Crystal Palace FC,Burnley FC,Crystal Palace FC,Crystal Palace FC,True,True
+136,2018-12-01,Southampton FC,Manchester United FC,Tie,Manchester United FC,False,False
+137,2018-12-02,Chelsea FC,Fulham FC,Chelsea FC,Chelsea FC,True,True
+138,2018-12-02,Arsenal FC,Tottenham Hotspur FC,Arsenal FC,Tottenham Hotspur FC,False,False
+139,2018-12-02,Liverpool FC,Everton FC,Liverpool FC,Liverpool FC,True,True
+140,2018-12-04,West Ham United FC,Cardiff City FC,West Ham United FC,West Ham United FC,True,True
+141,2018-12-04,Brighton & Hove Albion FC,Crystal Palace FC,Brighton & Hove Albion FC,Crystal Palace FC,False,False
+142,2018-12-04,AFC Bournemouth,Huddersfield Town AFC,AFC Bournemouth,AFC Bournemouth,True,True
+143,2018-12-04,Watford FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+144,2018-12-05,Wolverhampton Wanderers FC,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,False,False
+145,2018-12-05,Fulham FC,Leicester City FC,Tie,Fulham FC,False,False
+146,2018-12-05,Burnley FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+147,2018-12-05,Everton FC,Newcastle United FC,Tie,Everton FC,False,False
+148,2018-12-05,Manchester United FC,Arsenal FC,Tie,Manchester United FC,False,False
+149,2018-12-05,Tottenham Hotspur FC,Southampton FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+150,2018-12-08,AFC Bournemouth,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+151,2018-12-08,Arsenal FC,Huddersfield Town AFC,Arsenal FC,Arsenal FC,True,True
+152,2018-12-08,Manchester United FC,Fulham FC,Manchester United FC,Manchester United FC,True,True
+153,2018-12-08,Burnley FC,Brighton & Hove Albion FC,Burnley FC,Brighton & Hove Albion FC,False,False
+154,2018-12-08,Cardiff City FC,Southampton FC,Cardiff City FC,Southampton FC,False,False
+155,2018-12-08,West Ham United FC,Crystal Palace FC,West Ham United FC,West Ham United FC,True,True
+156,2018-12-08,Chelsea FC,Manchester City FC,Chelsea FC,Manchester City FC,False,False
+157,2018-12-08,Leicester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+158,2018-12-09,Newcastle United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+159,2018-12-10,Everton FC,Watford FC,Tie,Everton FC,False,False
+160,2018-12-15,Manchester City FC,Everton FC,Manchester City FC,Manchester City FC,True,True
+161,2018-12-15,Wolverhampton Wanderers FC,AFC Bournemouth,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+162,2018-12-15,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+163,2018-12-15,Huddersfield Town AFC,Newcastle United FC,Newcastle United FC,Huddersfield Town AFC,False,False
+164,2018-12-15,Crystal Palace FC,Leicester City FC,Crystal Palace FC,Crystal Palace FC,True,True
+165,2018-12-15,Watford FC,Cardiff City FC,Watford FC,Watford FC,True,True
+166,2018-12-15,Fulham FC,West Ham United FC,West Ham United FC,West Ham United FC,True,True
+167,2018-12-16,Southampton FC,Arsenal FC,Southampton FC,Arsenal FC,False,False
+168,2018-12-16,Brighton & Hove Albion FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+169,2018-12-16,Liverpool FC,Manchester United FC,Liverpool FC,Liverpool FC,True,True
+170,2018-12-21,Wolverhampton Wanderers FC,Liverpool FC,Tie,Liverpool FC,False,False
+171,2018-12-22,Arsenal FC,Burnley FC,Arsenal FC,Arsenal FC,True,True
+172,2018-12-22,Manchester City FC,Crystal Palace FC,Crystal Palace FC,Manchester City FC,False,False
+173,2018-12-22,Newcastle United FC,Fulham FC,Tie,Newcastle United FC,False,False
+174,2018-12-22,Chelsea FC,Leicester City FC,Leicester City FC,Chelsea FC,False,False
+175,2018-12-22,Huddersfield Town AFC,Southampton FC,Southampton FC,Southampton FC,True,True
+176,2018-12-22,West Ham United FC,Watford FC,Watford FC,West Ham United FC,False,False
+177,2018-12-22,AFC Bournemouth,Brighton & Hove Albion FC,AFC Bournemouth,AFC Bournemouth,True,True
+178,2018-12-22,Cardiff City FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+179,2018-12-23,Everton FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+180,2018-12-26,Fulham FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+181,2018-12-26,Liverpool FC,Newcastle United FC,Liverpool FC,Liverpool FC,True,True
+182,2018-12-26,Tottenham Hotspur FC,AFC Bournemouth,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+183,2018-12-26,Manchester United FC,Huddersfield Town AFC,Manchester United FC,Manchester United FC,True,True
+184,2018-12-26,Leicester City FC,Manchester City FC,Leicester City FC,Manchester City FC,False,False
+185,2018-12-26,Burnley FC,Everton FC,Everton FC,Everton FC,True,True
+186,2018-12-26,Crystal Palace FC,Cardiff City FC,Tie,Crystal Palace FC,False,False
+187,2018-12-26,Brighton & Hove Albion FC,Arsenal FC,Tie,Arsenal FC,False,False
+188,2018-12-26,Watford FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+189,2018-12-27,Southampton FC,West Ham United FC,Tie,Southampton FC,False,False
+190,2018-12-29,Fulham FC,Huddersfield Town AFC,Fulham FC,Fulham FC,True,True
+191,2018-12-29,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,False,False
+192,2018-12-29,Leicester City FC,Cardiff City FC,Cardiff City FC,Leicester City FC,False,False
+193,2018-12-29,Brighton & Hove Albion FC,Everton FC,Brighton & Hove Albion FC,Everton FC,False,False
+194,2018-12-29,Watford FC,Newcastle United FC,Tie,Watford FC,False,False
+195,2018-12-29,Liverpool FC,Arsenal FC,Liverpool FC,Liverpool FC,True,True
+196,2018-12-30,Crystal Palace FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+197,2018-12-30,Burnley FC,West Ham United FC,Burnley FC,West Ham United FC,False,False
+198,2018-12-30,Southampton FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+199,2018-12-30,Manchester United FC,AFC Bournemouth,Manchester United FC,Manchester United FC,True,True
+200,2019-01-01,Everton FC,Leicester City FC,Leicester City FC,Everton FC,False,False
+201,2019-01-01,Arsenal FC,Fulham FC,Arsenal FC,Arsenal FC,True,True
+202,2019-01-01,Cardiff City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+203,2019-01-02,Wolverhampton Wanderers FC,Crystal Palace FC,Crystal Palace FC,Wolverhampton Wanderers FC,False,False
+204,2019-01-02,Chelsea FC,Southampton FC,Tie,Chelsea FC,False,False
+205,2019-01-02,Huddersfield Town AFC,Burnley FC,Burnley FC,Huddersfield Town AFC,False,False
+206,2019-01-02,West Ham United FC,Brighton & Hove Albion FC,Tie,West Ham United FC,False,False
+207,2019-01-02,AFC Bournemouth,Watford FC,Tie,AFC Bournemouth,False,False
+208,2019-01-02,Newcastle United FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+209,2019-01-03,Manchester City FC,Liverpool FC,Manchester City FC,Manchester City FC,True,True
+210,2019-01-12,West Ham United FC,Arsenal FC,West Ham United FC,Arsenal FC,False,False
+211,2019-01-12,Leicester City FC,Southampton FC,Southampton FC,Leicester City FC,False,False
+212,2019-01-12,Burnley FC,Fulham FC,Burnley FC,Burnley FC,True,True
+213,2019-01-12,Cardiff City FC,Huddersfield Town AFC,Tie,Cardiff City FC,False,False
+214,2019-01-12,Crystal Palace FC,Watford FC,Watford FC,Crystal Palace FC,False,False
+215,2019-01-12,Brighton & Hove Albion FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+216,2019-01-12,Chelsea FC,Newcastle United FC,Chelsea FC,Chelsea FC,True,True
+217,2019-01-13,Everton FC,AFC Bournemouth,Everton FC,Everton FC,True,True
+218,2019-01-13,Tottenham Hotspur FC,Manchester United FC,Manchester United FC,Tottenham Hotspur FC,False,False
+219,2019-01-14,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,Manchester City FC,True,True
+220,2019-01-19,Wolverhampton Wanderers FC,Leicester City FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+221,2019-01-19,Liverpool FC,Crystal Palace FC,Liverpool FC,Liverpool FC,True,True
+222,2019-01-19,Newcastle United FC,Cardiff City FC,Newcastle United FC,Newcastle United FC,True,True
+223,2019-01-19,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,Manchester United FC,True,True
+224,2019-01-19,Southampton FC,Everton FC,Southampton FC,Everton FC,False,False
+225,2019-01-19,Watford FC,Burnley FC,Tie,Watford FC,False,False
+226,2019-01-19,AFC Bournemouth,West Ham United FC,AFC Bournemouth,AFC Bournemouth,True,True
+227,2019-01-19,Arsenal FC,Chelsea FC,Arsenal FC,Chelsea FC,False,False
+228,2019-01-20,Huddersfield Town AFC,Manchester City FC,Tie,Manchester City FC,False,False
+229,2019-01-20,Fulham FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+230,2019-01-29,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+231,2019-01-29,Fulham FC,Brighton & Hove Albion FC,Fulham FC,Fulham FC,True,True
+232,2019-01-29,Arsenal FC,Cardiff City FC,Arsenal FC,Arsenal FC,True,True
+233,2019-01-29,Huddersfield Town AFC,Everton FC,Tie,Everton FC,False,False
+234,2019-01-29,Manchester United FC,Burnley FC,Tie,Manchester United FC,False,False
+235,2019-01-29,Newcastle United FC,Manchester City FC,Newcastle United FC,Manchester City FC,False,False
+236,2019-01-30,AFC Bournemouth,Chelsea FC,AFC Bournemouth,Chelsea FC,False,False
+237,2019-01-30,Southampton FC,Crystal Palace FC,Tie,Southampton FC,False,False
+238,2019-01-30,Liverpool FC,Leicester City FC,Tie,Liverpool FC,False,False
+239,2019-01-30,Tottenham Hotspur FC,Watford FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+240,2019-02-02,Tottenham Hotspur FC,Newcastle United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+241,2019-02-02,Chelsea FC,Huddersfield Town AFC,Chelsea FC,Chelsea FC,True,True
+242,2019-02-02,Everton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Everton FC,False,False
+243,2019-02-02,Burnley FC,Southampton FC,Tie,Burnley FC,False,False
+244,2019-02-02,Crystal Palace FC,Fulham FC,Crystal Palace FC,Crystal Palace FC,True,True
+245,2019-02-02,Brighton & Hove Albion FC,Watford FC,Tie,Brighton & Hove Albion FC,False,False
+246,2019-02-02,Cardiff City FC,AFC Bournemouth,Cardiff City FC,AFC Bournemouth,False,False
+247,2019-02-03,Leicester City FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+248,2019-02-03,Manchester City FC,Arsenal FC,Manchester City FC,Manchester City FC,True,True
+249,2019-02-04,West Ham United FC,Liverpool FC,Tie,Liverpool FC,False,False
+250,2019-02-06,Everton FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+251,2019-02-09,Fulham FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+252,2019-02-09,Liverpool FC,AFC Bournemouth,Liverpool FC,Liverpool FC,True,True
+253,2019-02-09,Huddersfield Town AFC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+254,2019-02-09,Southampton FC,Cardiff City FC,Cardiff City FC,Southampton FC,False,False
+255,2019-02-09,Crystal Palace FC,West Ham United FC,Tie,Crystal Palace FC,False,False
+256,2019-02-09,Watford FC,Everton FC,Watford FC,Watford FC,True,True
+257,2019-02-09,Brighton & Hove Albion FC,Burnley FC,Burnley FC,Brighton & Hove Albion FC,False,False
+258,2019-02-10,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+259,2019-02-10,Manchester City FC,Chelsea FC,Manchester City FC,Manchester City FC,True,True
+260,2019-02-11,Wolverhampton Wanderers FC,Newcastle United FC,Tie,Wolverhampton Wanderers FC,False,False
+261,2019-02-22,Cardiff City FC,Watford FC,Watford FC,Watford FC,True,True
+262,2019-02-22,West Ham United FC,Fulham FC,West Ham United FC,West Ham United FC,True,True
+263,2019-02-23,Burnley FC,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,False,False
+264,2019-02-23,Newcastle United FC,Huddersfield Town AFC,Newcastle United FC,Newcastle United FC,True,True
+265,2019-02-23,AFC Bournemouth,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+266,2019-02-23,Leicester City FC,Crystal Palace FC,Crystal Palace FC,Leicester City FC,False,False
+267,2019-02-24,Arsenal FC,Southampton FC,Arsenal FC,Arsenal FC,True,True
+268,2019-02-24,Manchester United FC,Liverpool FC,Tie,Liverpool FC,False,False
+269,2019-02-26,Leicester City FC,Brighton & Hove Albion FC,Leicester City FC,Leicester City FC,True,True
+270,2019-02-26,Huddersfield Town AFC,Wolverhampton Wanderers FC,Huddersfield Town AFC,Wolverhampton Wanderers FC,False,False
+271,2019-02-26,Cardiff City FC,Everton FC,Everton FC,Everton FC,True,True
+272,2019-02-26,Newcastle United FC,Burnley FC,Newcastle United FC,Newcastle United FC,True,True
+273,2019-02-27,Arsenal FC,AFC Bournemouth,Arsenal FC,Arsenal FC,True,True
+274,2019-02-27,Southampton FC,Fulham FC,Southampton FC,Southampton FC,True,True
+275,2019-02-27,Crystal Palace FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+276,2019-02-27,Liverpool FC,Watford FC,Liverpool FC,Liverpool FC,True,True
+277,2019-02-27,Manchester City FC,West Ham United FC,Manchester City FC,Manchester City FC,True,True
+278,2019-02-27,Chelsea FC,Tottenham Hotspur FC,Chelsea FC,Chelsea FC,True,True
+279,2019-03-02,Tottenham Hotspur FC,Arsenal FC,Tie,Tottenham Hotspur FC,False,False
+280,2019-03-02,Wolverhampton Wanderers FC,Cardiff City FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+281,2019-03-02,Manchester United FC,Southampton FC,Manchester United FC,Manchester United FC,True,True
+282,2019-03-02,Burnley FC,Crystal Palace FC,Crystal Palace FC,Crystal Palace FC,True,True
+283,2019-03-02,Brighton & Hove Albion FC,Huddersfield Town AFC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,True,True
+284,2019-03-02,AFC Bournemouth,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+285,2019-03-02,West Ham United FC,Newcastle United FC,West Ham United FC,West Ham United FC,True,True
+286,2019-03-03,Watford FC,Leicester City FC,Watford FC,Leicester City FC,False,False
+287,2019-03-03,Fulham FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+288,2019-03-03,Everton FC,Liverpool FC,Tie,Liverpool FC,False,False
+289,2019-03-09,Crystal Palace FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Crystal Palace FC,False,False
+290,2019-03-09,Newcastle United FC,Everton FC,Newcastle United FC,Newcastle United FC,True,True
+291,2019-03-09,Leicester City FC,Fulham FC,Leicester City FC,Leicester City FC,True,True
+292,2019-03-09,Huddersfield Town AFC,AFC Bournemouth,AFC Bournemouth,AFC Bournemouth,True,True
+293,2019-03-09,Cardiff City FC,West Ham United FC,Cardiff City FC,West Ham United FC,False,False
+294,2019-03-09,Southampton FC,Tottenham Hotspur FC,Southampton FC,Tottenham Hotspur FC,False,False
+295,2019-03-09,Manchester City FC,Watford FC,Manchester City FC,Manchester City FC,True,True
+296,2019-03-10,Liverpool FC,Burnley FC,Liverpool FC,Liverpool FC,True,True
+297,2019-03-10,Chelsea FC,Wolverhampton Wanderers FC,Tie,Chelsea FC,False,False
+298,2019-03-10,Arsenal FC,Manchester United FC,Tie,Arsenal FC,False,False
+299,2019-03-16,Burnley FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+300,2019-03-16,West Ham United FC,Huddersfield Town AFC,West Ham United FC,West Ham United FC,True,True
+301,2019-03-16,AFC Bournemouth,Newcastle United FC,Tie,AFC Bournemouth,False,False
+302,2019-03-17,Fulham FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+303,2019-03-17,Everton FC,Chelsea FC,Everton FC,Chelsea FC,False,False
+304,2019-03-30,Fulham FC,Manchester City FC,Tie,Manchester City FC,False,False
+305,2019-03-30,Manchester United FC,Watford FC,Tie,Manchester United FC,False,False
+306,2019-03-30,Leicester City FC,AFC Bournemouth,Tie,Leicester City FC,False,False
+307,2019-03-30,Burnley FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+308,2019-03-30,Crystal Palace FC,Huddersfield Town AFC,Tie,Crystal Palace FC,False,False
+309,2019-03-30,Brighton & Hove Albion FC,Southampton FC,Tie,Brighton & Hove Albion FC,False,False
+310,2019-03-30,West Ham United FC,Everton FC,Tie,West Ham United FC,False,False
+311,2019-03-31,Cardiff City FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+312,2019-03-31,Liverpool FC,Tottenham Hotspur FC,Liverpool FC,Liverpool FC,True,True
+313,2019-04-01,Arsenal FC,Newcastle United FC,Arsenal FC,Arsenal FC,True,True
+314,2019-04-02,Wolverhampton Wanderers FC,Manchester United FC,Wolverhampton Wanderers FC,Manchester United FC,False,False
+315,2019-04-02,Watford FC,Fulham FC,Watford FC,Watford FC,True,True
+316,2019-04-03,Chelsea FC,Brighton & Hove Albion FC,Tie,Chelsea FC,False,False
+317,2019-04-03,Tottenham Hotspur FC,Crystal Palace FC,Tie,Tottenham Hotspur FC,False,False
+318,2019-04-03,Manchester City FC,Cardiff City FC,Tie,Manchester City FC,False,False
+319,2019-04-05,Southampton FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+320,2019-04-06,Newcastle United FC,Crystal Palace FC,Tie,Newcastle United FC,False,False
+321,2019-04-06,Huddersfield Town AFC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+322,2019-04-06,AFC Bournemouth,Burnley FC,Burnley FC,AFC Bournemouth,False,False
+323,2019-04-07,Everton FC,Arsenal FC,Tie,Arsenal FC,False,False
+324,2019-04-08,Chelsea FC,West Ham United FC,Chelsea FC,Chelsea FC,True,True
+325,2019-04-12,Leicester City FC,Newcastle United FC,Newcastle United FC,Leicester City FC,False,False
+326,2019-04-13,Tottenham Hotspur FC,Huddersfield Town AFC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+327,2019-04-13,Fulham FC,Everton FC,Fulham FC,Everton FC,False,False
+328,2019-04-13,Burnley FC,Cardiff City FC,Burnley FC,Burnley FC,True,True
+329,2019-04-13,Southampton FC,Wolverhampton Wanderers FC,Southampton FC,Southampton FC,True,True
+330,2019-04-13,Brighton & Hove Albion FC,AFC Bournemouth,AFC Bournemouth,Brighton & Hove Albion FC,False,False
+331,2019-04-13,Manchester United FC,West Ham United FC,Manchester United FC,Manchester United FC,True,True
+332,2019-04-14,Crystal Palace FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+333,2019-04-14,Liverpool FC,Chelsea FC,Liverpool FC,Liverpool FC,True,True
+334,2019-04-15,Watford FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+335,2019-04-16,Brighton & Hove Albion FC,Cardiff City FC,Cardiff City FC,Brighton & Hove Albion FC,False,False
+336,2019-04-20,Manchester City FC,Tottenham Hotspur FC,Tie,Manchester City FC,False,False
+337,2019-04-20,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Tie,Wolverhampton Wanderers FC,False,False
+338,2019-04-20,Huddersfield Town AFC,Watford FC,Watford FC,Watford FC,True,True
+339,2019-04-20,West Ham United FC,Leicester City FC,Tie,Leicester City FC,False,False
+340,2019-04-20,AFC Bournemouth,Fulham FC,Tie,AFC Bournemouth,False,False
+341,2019-04-20,Newcastle United FC,Southampton FC,Newcastle United FC,Newcastle United FC,True,True
+342,2019-04-21,Everton FC,Manchester United FC,Everton FC,Manchester United FC,False,False
+343,2019-04-21,Arsenal FC,Crystal Palace FC,Tie,Arsenal FC,False,False
+344,2019-04-21,Cardiff City FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+345,2019-04-22,Chelsea FC,Burnley FC,Tie,Chelsea FC,False,False
+346,2019-04-23,Watford FC,Southampton FC,Tie,Watford FC,False,False
+347,2019-04-23,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tie,Tottenham Hotspur FC,False,False
+348,2019-04-24,Wolverhampton Wanderers FC,Arsenal FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+349,2019-04-24,Manchester United FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+350,2019-04-26,Liverpool FC,Huddersfield Town AFC,Liverpool FC,Liverpool FC,True,True
+351,2019-04-27,Tottenham Hotspur FC,West Ham United FC,Tie,Tottenham Hotspur FC,False,False
+352,2019-04-27,Fulham FC,Cardiff City FC,Tie,Fulham FC,False,False
+353,2019-04-27,Southampton FC,AFC Bournemouth,Tie,Southampton FC,False,False
+354,2019-04-27,Crystal Palace FC,Everton FC,Tie,Everton FC,False,False
+355,2019-04-27,Watford FC,Wolverhampton Wanderers FC,Tie,Watford FC,False,False
+356,2019-04-27,Brighton & Hove Albion FC,Newcastle United FC,Tie,Brighton & Hove Albion FC,False,False
+357,2019-04-28,Leicester City FC,Arsenal FC,Leicester City FC,Leicester City FC,True,True
+358,2019-04-28,Burnley FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+359,2019-04-28,Manchester United FC,Chelsea FC,Tie,Chelsea FC,False,False
+360,2019-05-03,Everton FC,Burnley FC,Everton FC,Everton FC,True,True
+361,2019-05-04,AFC Bournemouth,Tottenham Hotspur FC,AFC Bournemouth,Tottenham Hotspur FC,False,False
+362,2019-05-04,Wolverhampton Wanderers FC,Fulham FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+363,2019-05-04,West Ham United FC,Southampton FC,West Ham United FC,West Ham United FC,True,True
+364,2019-05-04,Cardiff City FC,Crystal Palace FC,Crystal Palace FC,Cardiff City FC,False,False
+365,2019-05-04,Newcastle United FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+366,2019-05-05,Chelsea FC,Watford FC,Chelsea FC,Chelsea FC,True,True
+367,2019-05-05,Huddersfield Town AFC,Manchester United FC,Tie,Manchester United FC,False,False
+368,2019-05-05,Arsenal FC,Brighton & Hove Albion FC,Tie,Arsenal FC,False,False
+369,2019-05-06,Manchester City FC,Leicester City FC,Manchester City FC,Manchester City FC,True,True
+370,2019-05-12,Fulham FC,Newcastle United FC,Newcastle United FC,Fulham FC,False,False
+371,2019-05-12,Liverpool FC,Wolverhampton Wanderers FC,Liverpool FC,Liverpool FC,True,True
+372,2019-05-12,Tottenham Hotspur FC,Everton FC,Tie,Tottenham Hotspur FC,False,False
+373,2019-05-12,Manchester United FC,Cardiff City FC,Cardiff City FC,Manchester United FC,False,False
+374,2019-05-12,Leicester City FC,Chelsea FC,Tie,Leicester City FC,False,False
+375,2019-05-12,Burnley FC,Arsenal FC,Arsenal FC,Burnley FC,False,False
+376,2019-05-12,Southampton FC,Huddersfield Town AFC,Tie,Southampton FC,False,False
+377,2019-05-12,Crystal Palace FC,AFC Bournemouth,Crystal Palace FC,Crystal Palace FC,True,True
+378,2019-05-12,Brighton & Hove Albion FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+379,2019-05-12,Watford FC,West Ham United FC,West Ham United FC,Watford FC,False,False
+0,2019-08-09,Liverpool FC,Norwich City FC,Liverpool FC,Liverpool FC,True,True
+1,2019-08-10,West Ham United FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+2,2019-08-10,Burnley FC,Southampton FC,Burnley FC,Burnley FC,True,True
+3,2019-08-10,Crystal Palace FC,Everton FC,Tie,Everton FC,False,False
+4,2019-08-10,Watford FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Watford FC,False,False
+5,2019-08-10,AFC Bournemouth,Sheffield United FC,Tie,AFC Bournemouth,False,False
+6,2019-08-10,Tottenham Hotspur FC,Aston Villa FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+7,2019-08-11,Leicester City FC,Wolverhampton Wanderers FC,Tie,Leicester City FC,False,False
+8,2019-08-11,Newcastle United FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+9,2019-08-11,Manchester United FC,Chelsea FC,Manchester United FC,Manchester United FC,True,True
+10,2019-08-17,Arsenal FC,Burnley FC,Arsenal FC,Arsenal FC,True,True
+11,2019-08-17,Aston Villa FC,AFC Bournemouth,AFC Bournemouth,Aston Villa FC,False,False
+12,2019-08-17,Everton FC,Watford FC,Everton FC,Everton FC,True,True
+13,2019-08-17,Norwich City FC,Newcastle United FC,Norwich City FC,Norwich City FC,True,True
+14,2019-08-17,Southampton FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+15,2019-08-17,Brighton & Hove Albion FC,West Ham United FC,Tie,Brighton & Hove Albion FC,False,False
+16,2019-08-17,Manchester City FC,Tottenham Hotspur FC,Tie,Manchester City FC,False,False
+17,2019-08-18,Sheffield United FC,Crystal Palace FC,Tie,Sheffield United FC,False,False
+18,2019-08-18,Chelsea FC,Leicester City FC,Tie,Chelsea FC,False,False
+19,2019-08-19,Wolverhampton Wanderers FC,Manchester United FC,Tie,Manchester United FC,False,False
+20,2019-08-23,Aston Villa FC,Everton FC,Tie,Everton FC,False,False
+21,2019-08-24,Norwich City FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+22,2019-08-24,Manchester United FC,Crystal Palace FC,Crystal Palace FC,Manchester United FC,False,False
+23,2019-08-24,Sheffield United FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+24,2019-08-24,Brighton & Hove Albion FC,Southampton FC,Southampton FC,Brighton & Hove Albion FC,False,False
+25,2019-08-24,Watford FC,West Ham United FC,West Ham United FC,Watford FC,False,False
+26,2019-08-24,Liverpool FC,Arsenal FC,Liverpool FC,Liverpool FC,True,True
+27,2019-08-25,AFC Bournemouth,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+28,2019-08-25,Wolverhampton Wanderers FC,Burnley FC,Tie,Wolverhampton Wanderers FC,False,False
+29,2019-08-25,Tottenham Hotspur FC,Newcastle United FC,Newcastle United FC,Tottenham Hotspur FC,False,False
+30,2019-08-31,Southampton FC,Manchester United FC,Tie,Manchester United FC,False,False
+31,2019-08-31,Manchester City FC,Brighton & Hove Albion FC,Manchester City FC,Manchester City FC,True,True
+32,2019-08-31,Newcastle United FC,Watford FC,Tie,Newcastle United FC,False,False
+33,2019-08-31,Chelsea FC,Sheffield United FC,Tie,Chelsea FC,False,False
+34,2019-08-31,Leicester City FC,AFC Bournemouth,Leicester City FC,Leicester City FC,True,True
+35,2019-08-31,West Ham United FC,Norwich City FC,West Ham United FC,West Ham United FC,True,True
+36,2019-08-31,Crystal Palace FC,Aston Villa FC,Crystal Palace FC,Crystal Palace FC,True,True
+37,2019-08-31,Burnley FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+38,2019-09-01,Everton FC,Wolverhampton Wanderers FC,Everton FC,Everton FC,True,True
+39,2019-09-01,Arsenal FC,Tottenham Hotspur FC,Tie,Arsenal FC,False,False
+40,2019-09-14,Liverpool FC,Newcastle United FC,Liverpool FC,Liverpool FC,True,True
+41,2019-09-14,Wolverhampton Wanderers FC,Chelsea FC,Tie,Chelsea FC,False,False
+42,2019-09-14,Tottenham Hotspur FC,Crystal Palace FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+43,2019-09-14,Manchester United FC,Leicester City FC,Tie,Manchester United FC,False,False
+44,2019-09-14,Sheffield United FC,Southampton FC,Tie,Sheffield United FC,False,False
+45,2019-09-14,Brighton & Hove Albion FC,Burnley FC,Tie,Brighton & Hove Albion FC,False,False
+46,2019-09-14,Norwich City FC,Manchester City FC,Tie,Manchester City FC,False,False
+47,2019-09-15,AFC Bournemouth,Everton FC,AFC Bournemouth,Everton FC,False,False
+48,2019-09-15,Watford FC,Arsenal FC,Tie,Arsenal FC,False,False
+49,2019-09-16,Aston Villa FC,West Ham United FC,Tie,West Ham United FC,False,False
+50,2019-09-20,Southampton FC,AFC Bournemouth,AFC Bournemouth,Southampton FC,False,False
+51,2019-09-21,Leicester City FC,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,False,False
+52,2019-09-21,Manchester City FC,Watford FC,Manchester City FC,Manchester City FC,True,True
+53,2019-09-21,Everton FC,Sheffield United FC,Sheffield United FC,Everton FC,False,False
+54,2019-09-21,Burnley FC,Norwich City FC,Burnley FC,Burnley FC,True,True
+55,2019-09-21,Newcastle United FC,Brighton & Hove Albion FC,Tie,Newcastle United FC,False,False
+56,2019-09-22,West Ham United FC,Manchester United FC,Tie,Manchester United FC,False,False
+57,2019-09-22,Crystal Palace FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+58,2019-09-22,Arsenal FC,Aston Villa FC,Arsenal FC,Arsenal FC,True,True
+59,2019-09-22,Chelsea FC,Liverpool FC,Tie,Liverpool FC,False,False
+60,2019-09-28,Sheffield United FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+61,2019-09-28,Wolverhampton Wanderers FC,Watford FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+62,2019-09-28,Aston Villa FC,Burnley FC,Tie,Aston Villa FC,False,False
+63,2019-09-28,Chelsea FC,Brighton & Hove Albion FC,Chelsea FC,Chelsea FC,True,True
+64,2019-09-28,Tottenham Hotspur FC,Southampton FC,Tie,Tottenham Hotspur FC,False,False
+65,2019-09-28,Crystal Palace FC,Norwich City FC,Crystal Palace FC,Crystal Palace FC,True,True
+66,2019-09-28,AFC Bournemouth,West Ham United FC,Tie,AFC Bournemouth,False,False
+67,2019-09-28,Everton FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+68,2019-09-29,Leicester City FC,Newcastle United FC,Leicester City FC,Leicester City FC,True,True
+69,2019-09-30,Manchester United FC,Arsenal FC,Tie,Manchester United FC,False,False
+70,2019-10-05,Brighton & Hove Albion FC,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,False,False
+71,2019-10-05,Liverpool FC,Leicester City FC,Liverpool FC,Liverpool FC,True,True
+72,2019-10-05,Norwich City FC,Aston Villa FC,Aston Villa FC,Norwich City FC,False,False
+73,2019-10-05,Burnley FC,Everton FC,Tie,Everton FC,False,False
+74,2019-10-05,Watford FC,Sheffield United FC,Tie,Watford FC,False,False
+75,2019-10-05,West Ham United FC,Crystal Palace FC,Crystal Palace FC,West Ham United FC,False,False
+76,2019-10-06,Manchester City FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Manchester City FC,False,False
+77,2019-10-06,Arsenal FC,AFC Bournemouth,Tie,Arsenal FC,False,False
+78,2019-10-06,Southampton FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+79,2019-10-06,Newcastle United FC,Manchester United FC,Tie,Manchester United FC,False,False
+80,2019-10-19,Everton FC,West Ham United FC,Tie,Everton FC,False,False
+81,2019-10-19,Wolverhampton Wanderers FC,Southampton FC,Tie,Wolverhampton Wanderers FC,False,False
+82,2019-10-19,Aston Villa FC,Brighton & Hove Albion FC,Tie,Aston Villa FC,False,False
+83,2019-10-19,Chelsea FC,Newcastle United FC,Tie,Chelsea FC,False,False
+84,2019-10-19,Tottenham Hotspur FC,Watford FC,Tie,Tottenham Hotspur FC,False,False
+85,2019-10-19,Leicester City FC,Burnley FC,Tie,Leicester City FC,False,False
+86,2019-10-19,AFC Bournemouth,Norwich City FC,Tie,AFC Bournemouth,False,False
+87,2019-10-19,Crystal Palace FC,Manchester City FC,Tie,Manchester City FC,False,False
+88,2019-10-20,Manchester United FC,Liverpool FC,Tie,Liverpool FC,False,False
+89,2019-10-21,Sheffield United FC,Arsenal FC,Sheffield United FC,Arsenal FC,False,False
+90,2019-10-25,Southampton FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+91,2019-10-26,Manchester City FC,Aston Villa FC,Manchester City FC,Manchester City FC,True,True
+92,2019-10-26,West Ham United FC,Sheffield United FC,Tie,West Ham United FC,False,False
+93,2019-10-26,Brighton & Hove Albion FC,Everton FC,Tie,Brighton & Hove Albion FC,False,False
+94,2019-10-26,Watford FC,AFC Bournemouth,Tie,Watford FC,False,False
+95,2019-10-26,Burnley FC,Chelsea FC,Tie,Chelsea FC,False,False
+96,2019-10-27,Newcastle United FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+97,2019-10-27,Liverpool FC,Tottenham Hotspur FC,Tie,Liverpool FC,False,False
+98,2019-10-27,Arsenal FC,Crystal Palace FC,Tie,Arsenal FC,False,False
+99,2019-10-27,Norwich City FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+100,2019-11-02,AFC Bournemouth,Manchester United FC,AFC Bournemouth,Manchester United FC,False,False
+101,2019-11-02,Aston Villa FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+102,2019-11-02,Manchester City FC,Southampton FC,Manchester City FC,Manchester City FC,True,True
+103,2019-11-02,Arsenal FC,Wolverhampton Wanderers FC,Tie,Arsenal FC,False,False
+104,2019-11-02,Sheffield United FC,Burnley FC,Sheffield United FC,Sheffield United FC,True,True
+105,2019-11-02,West Ham United FC,Newcastle United FC,Newcastle United FC,West Ham United FC,False,False
+106,2019-11-02,Brighton & Hove Albion FC,Norwich City FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,True,True
+107,2019-11-02,Watford FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+108,2019-11-03,Crystal Palace FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+109,2019-11-03,Everton FC,Tottenham Hotspur FC,Tie,Everton FC,False,False
+110,2019-11-08,Norwich City FC,Watford FC,Watford FC,Watford FC,True,True
+111,2019-11-09,Chelsea FC,Crystal Palace FC,Chelsea FC,Chelsea FC,True,True
+112,2019-11-09,Newcastle United FC,AFC Bournemouth,Newcastle United FC,Newcastle United FC,True,True
+113,2019-11-09,Tottenham Hotspur FC,Sheffield United FC,Tie,Tottenham Hotspur FC,False,False
+114,2019-11-09,Burnley FC,West Ham United FC,Burnley FC,Burnley FC,True,True
+115,2019-11-09,Southampton FC,Everton FC,Everton FC,Everton FC,True,True
+116,2019-11-09,Leicester City FC,Arsenal FC,Leicester City FC,Leicester City FC,True,True
+117,2019-11-10,Wolverhampton Wanderers FC,Aston Villa FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+118,2019-11-10,Manchester United FC,Brighton & Hove Albion FC,Manchester United FC,Manchester United FC,True,True
+119,2019-11-10,Liverpool FC,Manchester City FC,Liverpool FC,Manchester City FC,False,False
+120,2019-11-23,West Ham United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+121,2019-11-23,Arsenal FC,Southampton FC,Tie,Arsenal FC,False,False
+122,2019-11-23,Everton FC,Norwich City FC,Norwich City FC,Everton FC,False,False
+123,2019-11-23,Crystal Palace FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+124,2019-11-23,Brighton & Hove Albion FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+125,2019-11-23,Watford FC,Burnley FC,Burnley FC,Watford FC,False,False
+126,2019-11-23,AFC Bournemouth,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+127,2019-11-23,Manchester City FC,Chelsea FC,Manchester City FC,Manchester City FC,True,True
+128,2019-11-24,Sheffield United FC,Manchester United FC,Tie,Manchester United FC,False,False
+129,2019-11-25,Aston Villa FC,Newcastle United FC,Aston Villa FC,Aston Villa FC,True,True
+130,2019-11-30,Newcastle United FC,Manchester City FC,Tie,Manchester City FC,False,False
+131,2019-11-30,Liverpool FC,Brighton & Hove Albion FC,Liverpool FC,Liverpool FC,True,True
+132,2019-11-30,Chelsea FC,West Ham United FC,West Ham United FC,Chelsea FC,False,False
+133,2019-11-30,Tottenham Hotspur FC,AFC Bournemouth,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+134,2019-11-30,Burnley FC,Crystal Palace FC,Crystal Palace FC,Burnley FC,False,False
+135,2019-11-30,Southampton FC,Watford FC,Southampton FC,Southampton FC,True,True
+136,2019-12-01,Wolverhampton Wanderers FC,Sheffield United FC,Tie,Wolverhampton Wanderers FC,False,False
+137,2019-12-01,Norwich City FC,Arsenal FC,Tie,Arsenal FC,False,False
+138,2019-12-01,Manchester United FC,Aston Villa FC,Tie,Manchester United FC,False,False
+139,2019-12-01,Leicester City FC,Everton FC,Tie,Leicester City FC,False,False
+140,2019-12-03,Crystal Palace FC,AFC Bournemouth,Tie,Crystal Palace FC,False,False
+141,2019-12-03,Burnley FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+142,2019-12-04,Wolverhampton Wanderers FC,West Ham United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+143,2019-12-04,Manchester United FC,Tottenham Hotspur FC,Manchester United FC,Manchester United FC,True,True
+144,2019-12-04,Leicester City FC,Watford FC,Leicester City FC,Leicester City FC,True,True
+145,2019-12-04,Chelsea FC,Aston Villa FC,Chelsea FC,Chelsea FC,True,True
+146,2019-12-04,Southampton FC,Norwich City FC,Southampton FC,Southampton FC,True,True
+147,2019-12-04,Liverpool FC,Everton FC,Liverpool FC,Liverpool FC,True,True
+148,2019-12-05,Sheffield United FC,Newcastle United FC,Newcastle United FC,Sheffield United FC,False,False
+149,2019-12-05,Arsenal FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Arsenal FC,False,False
+150,2019-12-07,Everton FC,Chelsea FC,Everton FC,Chelsea FC,False,False
+151,2019-12-07,Tottenham Hotspur FC,Burnley FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+152,2019-12-07,Watford FC,Crystal Palace FC,Tie,Watford FC,False,False
+153,2019-12-07,AFC Bournemouth,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+154,2019-12-07,Manchester City FC,Manchester United FC,Manchester United FC,Manchester City FC,False,False
+155,2019-12-08,Aston Villa FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+156,2019-12-08,Newcastle United FC,Southampton FC,Newcastle United FC,Newcastle United FC,True,True
+157,2019-12-08,Norwich City FC,Sheffield United FC,Sheffield United FC,Sheffield United FC,True,True
+158,2019-12-08,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Tie,Brighton & Hove Albion FC,False,False
+159,2019-12-09,West Ham United FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+160,2019-12-14,Liverpool FC,Watford FC,Liverpool FC,Liverpool FC,True,True
+161,2019-12-14,Chelsea FC,AFC Bournemouth,AFC Bournemouth,Chelsea FC,False,False
+162,2019-12-14,Sheffield United FC,Aston Villa FC,Sheffield United FC,Sheffield United FC,True,True
+163,2019-12-14,Leicester City FC,Norwich City FC,Tie,Leicester City FC,False,False
+164,2019-12-14,Burnley FC,Newcastle United FC,Burnley FC,Burnley FC,True,True
+165,2019-12-14,Southampton FC,West Ham United FC,West Ham United FC,Southampton FC,False,False
+166,2019-12-15,Wolverhampton Wanderers FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+167,2019-12-15,Manchester United FC,Everton FC,Tie,Manchester United FC,False,False
+168,2019-12-15,Arsenal FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+169,2019-12-16,Crystal Palace FC,Brighton & Hove Albion FC,Tie,Brighton & Hove Albion FC,False,False
+170,2019-12-21,Everton FC,Arsenal FC,Tie,Everton FC,False,False
+171,2019-12-21,Aston Villa FC,Southampton FC,Southampton FC,Aston Villa FC,False,False
+172,2019-12-21,Newcastle United FC,Crystal Palace FC,Newcastle United FC,Newcastle United FC,True,True
+173,2019-12-21,Norwich City FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+174,2019-12-21,Brighton & Hove Albion FC,Sheffield United FC,Sheffield United FC,Brighton & Hove Albion FC,False,False
+175,2019-12-21,AFC Bournemouth,Burnley FC,Burnley FC,AFC Bournemouth,False,False
+176,2019-12-21,Manchester City FC,Leicester City FC,Manchester City FC,Manchester City FC,True,True
+177,2019-12-22,Watford FC,Manchester United FC,Watford FC,Manchester United FC,False,False
+178,2019-12-22,Tottenham Hotspur FC,Chelsea FC,Chelsea FC,Tottenham Hotspur FC,False,False
+179,2019-12-26,Tottenham Hotspur FC,Brighton & Hove Albion FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+180,2019-12-26,Aston Villa FC,Norwich City FC,Aston Villa FC,Aston Villa FC,True,True
+181,2019-12-26,Chelsea FC,Southampton FC,Southampton FC,Chelsea FC,False,False
+182,2019-12-26,Everton FC,Burnley FC,Everton FC,Everton FC,True,True
+183,2019-12-26,Sheffield United FC,Watford FC,Tie,Sheffield United FC,False,False
+184,2019-12-26,Crystal Palace FC,West Ham United FC,Crystal Palace FC,Crystal Palace FC,True,True
+185,2019-12-26,AFC Bournemouth,Arsenal FC,Tie,Arsenal FC,False,False
+186,2019-12-26,Manchester United FC,Newcastle United FC,Manchester United FC,Manchester United FC,True,True
+187,2019-12-26,Leicester City FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+188,2019-12-27,Wolverhampton Wanderers FC,Manchester City FC,Wolverhampton Wanderers FC,Manchester City FC,False,False
+189,2019-12-28,Brighton & Hove Albion FC,AFC Bournemouth,Brighton & Hove Albion FC,Brighton & Hove Albion FC,True,True
+190,2019-12-28,Newcastle United FC,Everton FC,Everton FC,Everton FC,True,True
+191,2019-12-28,Southampton FC,Crystal Palace FC,Tie,Southampton FC,False,False
+192,2019-12-28,Watford FC,Aston Villa FC,Watford FC,Watford FC,True,True
+193,2019-12-28,Norwich City FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+194,2019-12-28,West Ham United FC,Leicester City FC,Leicester City FC,West Ham United FC,False,False
+195,2019-12-28,Burnley FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+196,2019-12-29,Arsenal FC,Chelsea FC,Tie,Chelsea FC,False,False
+197,2019-12-29,Liverpool FC,Wolverhampton Wanderers FC,Tie,Liverpool FC,False,False
+198,2019-12-29,Manchester City FC,Sheffield United FC,Tie,Manchester City FC,False,False
+199,2020-01-01,Burnley FC,Aston Villa FC,Aston Villa FC,Burnley FC,False,False
+200,2020-01-01,Brighton & Hove Albion FC,Chelsea FC,Tie,Chelsea FC,False,False
+201,2020-01-01,Newcastle United FC,Leicester City FC,Leicester City FC,Leicester City FC,True,True
+202,2020-01-01,Southampton FC,Tottenham Hotspur FC,Southampton FC,Tottenham Hotspur FC,False,False
+203,2020-01-01,Watford FC,Wolverhampton Wanderers FC,Watford FC,Wolverhampton Wanderers FC,False,False
+204,2020-01-01,Manchester City FC,Everton FC,Manchester City FC,Manchester City FC,True,True
+205,2020-01-01,Norwich City FC,Crystal Palace FC,Tie,Norwich City FC,False,False
+206,2020-01-01,West Ham United FC,AFC Bournemouth,West Ham United FC,West Ham United FC,True,True
+207,2020-01-01,Arsenal FC,Manchester United FC,Arsenal FC,Manchester United FC,False,False
+208,2020-01-02,Liverpool FC,Sheffield United FC,Liverpool FC,Liverpool FC,True,True
+209,2020-01-10,Sheffield United FC,West Ham United FC,Tie,Sheffield United FC,False,False
+210,2020-01-11,Crystal Palace FC,Arsenal FC,Tie,Arsenal FC,False,False
+211,2020-01-11,Wolverhampton Wanderers FC,Newcastle United FC,Tie,Wolverhampton Wanderers FC,False,False
+212,2020-01-11,Chelsea FC,Burnley FC,Chelsea FC,Chelsea FC,True,True
+213,2020-01-11,Everton FC,Brighton & Hove Albion FC,Everton FC,Everton FC,True,True
+214,2020-01-11,Manchester United FC,Norwich City FC,Manchester United FC,Manchester United FC,True,True
+215,2020-01-11,Leicester City FC,Southampton FC,Southampton FC,Leicester City FC,False,False
+216,2020-01-11,Tottenham Hotspur FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+217,2020-01-12,AFC Bournemouth,Watford FC,Watford FC,AFC Bournemouth,False,False
+218,2020-01-12,Aston Villa FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+219,2020-01-18,Watford FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+220,2020-01-18,Manchester City FC,Crystal Palace FC,Tie,Manchester City FC,False,False
+221,2020-01-18,Arsenal FC,Sheffield United FC,Tie,Arsenal FC,False,False
+222,2020-01-18,Norwich City FC,AFC Bournemouth,Tie,Norwich City FC,False,False
+223,2020-01-18,West Ham United FC,Everton FC,Tie,Everton FC,False,False
+224,2020-01-18,Southampton FC,Wolverhampton Wanderers FC,Tie,Southampton FC,False,False
+225,2020-01-18,Brighton & Hove Albion FC,Aston Villa FC,Tie,Brighton & Hove Albion FC,False,False
+226,2020-01-18,Newcastle United FC,Chelsea FC,Tie,Chelsea FC,False,False
+227,2020-01-19,Burnley FC,Leicester City FC,Burnley FC,Leicester City FC,False,False
+228,2020-01-19,Liverpool FC,Manchester United FC,Liverpool FC,Liverpool FC,True,True
+229,2020-01-21,Aston Villa FC,Watford FC,Tie,Watford FC,False,False
+230,2020-01-21,Everton FC,Newcastle United FC,Tie,Everton FC,False,False
+231,2020-01-21,Sheffield United FC,Manchester City FC,Tie,Manchester City FC,False,False
+232,2020-01-21,AFC Bournemouth,Brighton & Hove Albion FC,Tie,Brighton & Hove Albion FC,False,False
+233,2020-01-21,Crystal Palace FC,Southampton FC,Tie,Crystal Palace FC,False,False
+234,2020-01-21,Chelsea FC,Arsenal FC,Tie,Chelsea FC,False,False
+235,2020-01-22,Leicester City FC,West Ham United FC,Leicester City FC,Leicester City FC,True,True
+236,2020-01-22,Tottenham Hotspur FC,Norwich City FC,Tie,Tottenham Hotspur FC,False,False
+237,2020-01-22,Manchester United FC,Burnley FC,Burnley FC,Manchester United FC,False,False
+238,2020-01-23,Wolverhampton Wanderers FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+239,2020-01-29,West Ham United FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+240,2020-02-01,Leicester City FC,Chelsea FC,Tie,Leicester City FC,False,False
+241,2020-02-01,Liverpool FC,Southampton FC,Liverpool FC,Liverpool FC,True,True
+242,2020-02-01,Newcastle United FC,Norwich City FC,Tie,Newcastle United FC,False,False
+243,2020-02-01,West Ham United FC,Brighton & Hove Albion FC,Tie,West Ham United FC,False,False
+244,2020-02-01,Crystal Palace FC,Sheffield United FC,Tie,Sheffield United FC,False,False
+245,2020-02-01,Watford FC,Everton FC,Tie,Everton FC,False,False
+246,2020-02-01,AFC Bournemouth,Aston Villa FC,AFC Bournemouth,AFC Bournemouth,True,True
+247,2020-02-01,Manchester United FC,Wolverhampton Wanderers FC,Tie,Manchester United FC,False,False
+248,2020-02-02,Burnley FC,Arsenal FC,Tie,Arsenal FC,False,False
+249,2020-02-02,Tottenham Hotspur FC,Manchester City FC,Tie,Manchester City FC,False,False
+250,2020-02-08,Everton FC,Crystal Palace FC,Everton FC,Everton FC,True,True
+251,2020-02-08,Brighton & Hove Albion FC,Watford FC,Tie,Brighton & Hove Albion FC,False,False
+252,2020-02-09,Sheffield United FC,AFC Bournemouth,Tie,Sheffield United FC,False,False
+253,2020-02-14,Wolverhampton Wanderers FC,Leicester City FC,Tie,Wolverhampton Wanderers FC,False,False
+254,2020-02-15,Southampton FC,Burnley FC,Tie,Southampton FC,False,False
+255,2020-02-15,Norwich City FC,Liverpool FC,Tie,Liverpool FC,False,False
+256,2020-02-16,Aston Villa FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+257,2020-02-16,Arsenal FC,Newcastle United FC,Arsenal FC,Arsenal FC,True,True
+258,2020-02-17,Chelsea FC,Manchester United FC,Manchester United FC,Chelsea FC,False,False
+259,2020-02-19,Manchester City FC,West Ham United FC,Manchester City FC,Manchester City FC,True,True
+260,2020-02-22,Chelsea FC,Tottenham Hotspur FC,Tie,Chelsea FC,False,False
+261,2020-02-22,Sheffield United FC,Brighton & Hove Albion FC,Tie,Sheffield United FC,False,False
+262,2020-02-22,Burnley FC,AFC Bournemouth,Burnley FC,Burnley FC,True,True
+263,2020-02-22,Southampton FC,Aston Villa FC,Tie,Southampton FC,False,False
+264,2020-02-22,Crystal Palace FC,Newcastle United FC,Tie,Crystal Palace FC,False,False
+265,2020-02-22,Leicester City FC,Manchester City FC,Tie,Manchester City FC,False,False
+266,2020-02-23,Wolverhampton Wanderers FC,Norwich City FC,Tie,Wolverhampton Wanderers FC,False,False
+267,2020-02-23,Manchester United FC,Watford FC,Tie,Manchester United FC,False,False
+268,2020-02-23,Arsenal FC,Everton FC,Tie,Arsenal FC,False,False
+269,2020-02-24,Liverpool FC,West Ham United FC,Liverpool FC,Liverpool FC,True,True
+270,2020-02-28,Norwich City FC,Leicester City FC,Norwich City FC,Leicester City FC,False,False
+271,2020-02-29,Brighton & Hove Albion FC,Crystal Palace FC,Crystal Palace FC,Brighton & Hove Albion FC,False,False
+272,2020-02-29,Newcastle United FC,Burnley FC,Tie,Newcastle United FC,False,False
+273,2020-02-29,West Ham United FC,Southampton FC,West Ham United FC,West Ham United FC,True,True
+274,2020-02-29,AFC Bournemouth,Chelsea FC,Tie,Chelsea FC,False,False
+275,2020-02-29,Watford FC,Liverpool FC,Watford FC,Liverpool FC,False,False
+276,2020-03-01,Tottenham Hotspur FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Tottenham Hotspur FC,False,False
+277,2020-03-01,Everton FC,Manchester United FC,Tie,Manchester United FC,False,False
+278,2020-03-07,Liverpool FC,AFC Bournemouth,Liverpool FC,Liverpool FC,True,True
+279,2020-03-07,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Tie,Wolverhampton Wanderers FC,False,False
+280,2020-03-07,Arsenal FC,West Ham United FC,Tie,Arsenal FC,False,False
+281,2020-03-07,Sheffield United FC,Norwich City FC,Tie,Sheffield United FC,False,False
+282,2020-03-07,Southampton FC,Newcastle United FC,Tie,Southampton FC,False,False
+283,2020-03-07,Crystal Palace FC,Watford FC,Tie,Crystal Palace FC,False,False
+284,2020-03-07,Burnley FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+285,2020-03-08,Chelsea FC,Everton FC,Chelsea FC,Chelsea FC,True,True
+286,2020-03-08,Manchester United FC,Manchester City FC,Manchester United FC,Manchester City FC,False,False
+287,2020-03-09,Leicester City FC,Aston Villa FC,Leicester City FC,Leicester City FC,True,True
+288,2020-06-17,Aston Villa FC,Sheffield United FC,Tie,Sheffield United FC,False,False
+289,2020-06-17,Manchester City FC,Arsenal FC,Manchester City FC,Manchester City FC,True,True
+290,2020-06-19,Norwich City FC,Southampton FC,Southampton FC,Southampton FC,True,True
+291,2020-06-19,Tottenham Hotspur FC,Manchester United FC,Tie,Manchester United FC,False,False
+292,2020-06-20,Watford FC,Leicester City FC,Tie,Leicester City FC,False,False
+293,2020-06-20,Brighton & Hove Albion FC,Arsenal FC,Brighton & Hove Albion FC,Arsenal FC,False,False
+294,2020-06-20,West Ham United FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+295,2020-06-20,AFC Bournemouth,Crystal Palace FC,Crystal Palace FC,AFC Bournemouth,False,False
+296,2020-06-21,Newcastle United FC,Sheffield United FC,Newcastle United FC,Sheffield United FC,False,False
+297,2020-06-21,Aston Villa FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+298,2020-06-21,Everton FC,Liverpool FC,Tie,Liverpool FC,False,False
+299,2020-06-22,Manchester City FC,Burnley FC,Manchester City FC,Manchester City FC,True,True
+300,2020-06-23,Leicester City FC,Brighton & Hove Albion FC,Tie,Leicester City FC,False,False
+301,2020-06-23,Tottenham Hotspur FC,West Ham United FC,Tie,Tottenham Hotspur FC,False,False
+302,2020-06-24,Wolverhampton Wanderers FC,AFC Bournemouth,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+303,2020-06-24,Newcastle United FC,Aston Villa FC,Tie,Newcastle United FC,False,False
+304,2020-06-24,Manchester United FC,Sheffield United FC,Manchester United FC,Manchester United FC,True,True
+305,2020-06-24,Norwich City FC,Everton FC,Everton FC,Everton FC,True,True
+306,2020-06-24,Liverpool FC,Crystal Palace FC,Liverpool FC,Liverpool FC,True,True
+307,2020-06-25,Burnley FC,Watford FC,Burnley FC,Watford FC,False,False
+308,2020-06-25,Southampton FC,Arsenal FC,Arsenal FC,Arsenal FC,True,True
+309,2020-06-25,Chelsea FC,Manchester City FC,Chelsea FC,Manchester City FC,False,False
+310,2020-06-27,Aston Villa FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+311,2020-06-28,Watford FC,Southampton FC,Southampton FC,Watford FC,False,False
+312,2020-06-29,Crystal Palace FC,Burnley FC,Tie,Crystal Palace FC,False,False
+313,2020-06-30,Brighton & Hove Albion FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+314,2020-07-01,Arsenal FC,Norwich City FC,Arsenal FC,Arsenal FC,True,True
+315,2020-07-01,Everton FC,Leicester City FC,Everton FC,Everton FC,True,True
+316,2020-07-01,AFC Bournemouth,Newcastle United FC,Newcastle United FC,AFC Bournemouth,False,False
+317,2020-07-01,West Ham United FC,Chelsea FC,West Ham United FC,Chelsea FC,False,False
+318,2020-07-02,Sheffield United FC,Tottenham Hotspur FC,Sheffield United FC,Tottenham Hotspur FC,False,False
+319,2020-07-02,Manchester City FC,Liverpool FC,Manchester City FC,Manchester City FC,True,True
+320,2020-07-04,Norwich City FC,Brighton & Hove Albion FC,Tie,Brighton & Hove Albion FC,False,False
+321,2020-07-04,Manchester United FC,AFC Bournemouth,Manchester United FC,Manchester United FC,True,True
+322,2020-07-04,Leicester City FC,Crystal Palace FC,Tie,Leicester City FC,False,False
+323,2020-07-04,Wolverhampton Wanderers FC,Arsenal FC,Tie,Wolverhampton Wanderers FC,False,False
+324,2020-07-04,Chelsea FC,Watford FC,Tie,Chelsea FC,False,False
+325,2020-07-05,Burnley FC,Sheffield United FC,Tie,Sheffield United FC,False,False
+326,2020-07-05,Newcastle United FC,West Ham United FC,Tie,West Ham United FC,False,False
+327,2020-07-05,Liverpool FC,Aston Villa FC,Liverpool FC,Liverpool FC,True,True
+328,2020-07-05,Southampton FC,Manchester City FC,Southampton FC,Manchester City FC,False,False
+329,2020-07-06,Tottenham Hotspur FC,Everton FC,Tie,Tottenham Hotspur FC,False,False
+330,2020-07-07,Crystal Palace FC,Chelsea FC,Chelsea FC,Chelsea FC,True,True
+331,2020-07-07,Watford FC,Norwich City FC,Tie,Watford FC,False,False
+332,2020-07-07,Arsenal FC,Leicester City FC,Tie,Arsenal FC,False,False
+333,2020-07-08,Manchester City FC,Newcastle United FC,Manchester City FC,Manchester City FC,True,True
+334,2020-07-08,Sheffield United FC,Wolverhampton Wanderers FC,Sheffield United FC,Wolverhampton Wanderers FC,False,False
+335,2020-07-08,West Ham United FC,Burnley FC,Burnley FC,West Ham United FC,False,False
+336,2020-07-08,Brighton & Hove Albion FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+337,2020-07-09,Everton FC,Southampton FC,Tie,Everton FC,False,False
+338,2020-07-09,AFC Bournemouth,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
+339,2020-07-09,Aston Villa FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+340,2020-07-11,Norwich City FC,West Ham United FC,Tie,West Ham United FC,False,False
+341,2020-07-11,Watford FC,Newcastle United FC,Tie,Watford FC,False,False
+342,2020-07-11,Liverpool FC,Burnley FC,Tie,Liverpool FC,False,False
+343,2020-07-11,Sheffield United FC,Chelsea FC,Tie,Chelsea FC,False,False
+344,2020-07-11,Brighton & Hove Albion FC,Manchester City FC,Tie,Manchester City FC,False,False
+345,2020-07-12,Wolverhampton Wanderers FC,Everton FC,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,True,True
+346,2020-07-12,Aston Villa FC,Crystal Palace FC,Aston Villa FC,Aston Villa FC,True,True
+347,2020-07-12,Tottenham Hotspur FC,Arsenal FC,Tie,Arsenal FC,False,False
+348,2020-07-12,AFC Bournemouth,Leicester City FC,AFC Bournemouth,Leicester City FC,False,False
+349,2020-07-13,Manchester United FC,Southampton FC,Tie,Manchester United FC,False,False
+350,2020-07-14,Chelsea FC,Norwich City FC,Chelsea FC,Chelsea FC,True,True
+351,2020-07-15,Manchester City FC,AFC Bournemouth,Manchester City FC,Manchester City FC,True,True
+352,2020-07-15,Newcastle United FC,Tottenham Hotspur FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+353,2020-07-15,Burnley FC,Wolverhampton Wanderers FC,Tie,Wolverhampton Wanderers FC,False,False
+354,2020-07-15,Arsenal FC,Liverpool FC,Arsenal FC,Liverpool FC,False,False
+355,2020-07-16,Everton FC,Aston Villa FC,Tie,Everton FC,False,False
+356,2020-07-16,Leicester City FC,Sheffield United FC,Leicester City FC,Leicester City FC,True,True
+357,2020-07-16,Southampton FC,Brighton & Hove Albion FC,Tie,Southampton FC,False,False
+358,2020-07-16,Crystal Palace FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+359,2020-07-17,West Ham United FC,Watford FC,West Ham United FC,West Ham United FC,True,True
+360,2020-07-18,Norwich City FC,Burnley FC,Burnley FC,Burnley FC,True,True
+361,2020-07-19,AFC Bournemouth,Southampton FC,Southampton FC,AFC Bournemouth,False,False
+362,2020-07-19,Tottenham Hotspur FC,Leicester City FC,Tottenham Hotspur FC,Tottenham Hotspur FC,True,True
+363,2020-07-20,Sheffield United FC,Everton FC,Tie,Sheffield United FC,False,False
+364,2020-07-20,Brighton & Hove Albion FC,Newcastle United FC,Tie,Brighton & Hove Albion FC,False,False
+365,2020-07-20,Wolverhampton Wanderers FC,Crystal Palace FC,Tie,Wolverhampton Wanderers FC,False,False
+366,2020-07-21,Watford FC,Manchester City FC,Manchester City FC,Manchester City FC,True,True
+367,2020-07-21,Aston Villa FC,Arsenal FC,Aston Villa FC,Arsenal FC,False,False
+368,2020-07-22,Manchester United FC,West Ham United FC,Tie,Manchester United FC,False,False
+369,2020-07-22,Liverpool FC,Chelsea FC,Liverpool FC,Liverpool FC,True,True
+370,2020-07-26,Manchester City FC,Norwich City FC,Manchester City FC,Manchester City FC,True,True
+371,2020-07-26,Newcastle United FC,Liverpool FC,Liverpool FC,Liverpool FC,True,True
+372,2020-07-26,Arsenal FC,Watford FC,Tie,Arsenal FC,False,False
+373,2020-07-26,Chelsea FC,Wolverhampton Wanderers FC,Chelsea FC,Chelsea FC,True,True
+374,2020-07-26,Everton FC,AFC Bournemouth,AFC Bournemouth,Everton FC,False,False
+375,2020-07-26,Leicester City FC,Manchester United FC,Manchester United FC,Manchester United FC,True,True
+376,2020-07-26,Burnley FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,Brighton & Hove Albion FC,True,True
+377,2020-07-26,West Ham United FC,Aston Villa FC,Tie,West Ham United FC,False,False
+378,2020-07-26,Southampton FC,Sheffield United FC,Southampton FC,Southampton FC,True,True
+379,2020-07-26,Crystal Palace FC,Tottenham Hotspur FC,Tie,Tottenham Hotspur FC,False,False
